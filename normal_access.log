@@ -1,0 +1,2 @@
+127.0.0.1 - - [01/Oct/2025:12:05:00 +0000] "GET /index.html HTTP/1.1" 200 5120
+Oct  1 12:06:00 localhost sshd[1234]: Accepted password for validuser from 192.168.1.10 port 22 ssh2

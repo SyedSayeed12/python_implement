@@ -1,0 +1,12 @@
+{
+  "generated_at": "2025-10-05T13:44:21.207941",
+  "incidents": [
+    {
+      "type": "restricted_path_access",
+      "ip": "127.0.0.1",
+      "path": "/admin",
+      "timestamp": "2025-10-01T12:00:00+00:00",
+      "raw": "127.0.0.1 - - [01/Oct/2025:12:00:00 +0000] \"GET /admin HTTP/1.1\" 200 1234"
+    }
+  ]
+}
